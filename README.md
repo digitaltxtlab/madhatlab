@@ -1,10 +1,9 @@
 # madhatlab
 
-TODO: Write a project description
+A toolbox for text mining with MATLAB (work in progress)
 
 ## Installation
 
-A toolbox for text mining with MATLAB (work in progress)
 
 ## Usage
 
