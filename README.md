@@ -4,7 +4,9 @@ A toolbox for text mining with MATLAB (work in progress)
 
 ## Installation
 
-
+git clone https://github.com/digitaltxtlab/madhatlab  
+matlab -nosplash -nodesktop  
+path(~/MATLAB/madhatlab,'newpath')
 ## Usage
 
 
@@ -23,5 +25,3 @@ A toolbox for text mining with MATLAB (work in progress)
 
 
 ## License
-
-
